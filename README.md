@@ -1,6 +1,6 @@
 # SI-GuidedProject-524419-1688357950
 # Diabetics Prediction
-This Repository holds Project Files of the project: Diabetes Prediction using suitable Machine Learning Algorithm
+Hello I am PRABHATH SAI G B, this Repository holds Project Files of the project: Diabetes Prediction using suitable Machine Learning Algorithm
 
 There are 6 Files present in this repositary,
 
